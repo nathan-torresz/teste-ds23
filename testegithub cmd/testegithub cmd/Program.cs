@@ -6,7 +6,7 @@ namespace testegithub_cmd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("BBBBBBBBBBBBB");
+            Console.WriteLine("Bom Dia");
         }
     }
 }
