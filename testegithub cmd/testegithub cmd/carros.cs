@@ -6,5 +6,6 @@ namespace testegithub_cmd
 {
     class carros
     {
+        public int placa;
     }
 }
