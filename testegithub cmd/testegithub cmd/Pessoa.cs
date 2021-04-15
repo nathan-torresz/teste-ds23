@@ -11,8 +11,8 @@ namespace testegithub_cmd
         private int _rg;
 
         public string nome { get => _nome; set => _nome = value; }
-        public string cpf { get => _cpf; set => _cpf = value; }
-        public string rg { get => _rg; set => _rg = value; }
+        public int cpf { get => _cpf; set => _cpf = value; }
+        public int rg { get => _rg; set => _rg = value; }
 
 
 
