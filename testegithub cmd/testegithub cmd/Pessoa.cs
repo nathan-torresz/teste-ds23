@@ -8,13 +8,9 @@ namespace testegithub_cmd
     {
         public string nome;
         public string idade;
-        
-<<<<<<< HEAD
-<<<<<<< HEAD
+        public int cpf;
+
         public int rg;
-=======
->>>>>>> origin
-=======
->>>>>>> origin
+
     }
 }
