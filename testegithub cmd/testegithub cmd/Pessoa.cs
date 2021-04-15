@@ -6,11 +6,15 @@ namespace testegithub_cmd
 {
     class Pessoa
     {
-        public string nome;
-        public string idade;
-        public int cpf;
+        private string _nome;
+        private int _cpf;
+        private int _rg;
 
-        public int rg;
+        public string nome { get => _nome; set => _nome = value; }
+        public string cpf { get => _cpf; set => _cpf = value; }
+        public string rg { get => _rg; set => _rg = value; }
+
+
 
     }
 }
