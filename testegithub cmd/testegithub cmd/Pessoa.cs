@@ -9,6 +9,7 @@ namespace testegithub_cmd
         private string _nome;
         private int _cpf;
         private int _rg;
+        private int idade;
 
         public string nome { get => _nome; set => _nome = value; }
         public int cpf { get => _cpf; set => _cpf = value; }
