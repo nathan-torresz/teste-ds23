@@ -14,6 +14,7 @@ namespace testegithub_cmd
         public string nome { get => _nome; set => _nome = value; }
         public int cpf { get => _cpf; set => _cpf = value; }
         public int rg { get => _rg; set => _rg = value; }
+        public int Idade { get => idade; set => idade = value; }
 
 
 
