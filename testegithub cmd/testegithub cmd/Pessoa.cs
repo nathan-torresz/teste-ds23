@@ -18,7 +18,8 @@ namespace testegithub_cmd
 
         public Pessoa(string nome, int idade)
         {
-
+            this.nome = nome;
+            this.idade = idade;
         }
 
 
